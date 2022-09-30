@@ -1,0 +1,45 @@
+.disasterHeading {
+    color: white;
+    font-weight: 700;
+    font-size: 2.2rem;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.disaster {
+    margin: 70px;
+    background-color: rgb(37, 37, 37);
+    padding: 30px;
+    border-radius: 30px;
+    color: white;
+}
+
+.disasterBox {
+    color: white;
+}
+
+.disasterSubHeading {
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.disasterText {
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.disasterImage {
+    width: 20%;
+    height: 40vh;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+.tick {
+    width: 20px;
+}
